@@ -1,3 +1,15 @@
-Hiring challenge.pdf
-Files-20260320T231312Z-3-001/Files/
+# Virtual Environments
+venv/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Local Data and Output
+data/output/*.xlsx
 output.xlsx
+
+# Raw PDF files / Instructions
+Files-20260320T231312Z-3-001/
+Hiring challenge.pdf

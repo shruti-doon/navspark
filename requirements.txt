@@ -1,0 +1,7 @@
+pydantic
+pandas
+openpyxl
+pdfplumber
+PyPDF2
+google-genai
+python-dotenv
